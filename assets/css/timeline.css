@@ -1,0 +1,60 @@
+#time1 {
+  background-image: url('../../assets/img/1.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: background-image 1.5s;
+}
+
+#time1:hover, #time1:focus {
+  background-image: url('../../assets/img/10.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#time2 {
+  background-image: url('../../assets/img/2.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: background-image 1.5s;
+}
+
+#time2:hover, #time2:focus {
+  background-image: url('../../assets/img/20.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#time3 {
+  background-image: url('../../assets/img/3.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: background-image 1.5s;
+}
+
+#time3:hover, #time3:focus {
+  background-image: url('../../assets/img/30.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#time4 {
+  background-image: url('../../assets/img/4.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: background-image 1.5s;
+}
+
+#time4:hover, #time4:focus {
+  background-image: url('../../assets/img/40.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
